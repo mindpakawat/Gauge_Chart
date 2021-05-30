@@ -1,8 +1,16 @@
-# flutter_application_test
+# Guage with chart
 
 A new Flutter project.
 
 ## Getting Started
+
+### Get guage
+dependencies:
+  syncfusion_flutter_gauges: ^19.1.65
+
+### Get bar chart
+dependencies:
+  charts_flutter: ^0.10.0
 
 This project is a starting point for a Flutter application.
 
